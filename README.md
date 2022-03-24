@@ -38,11 +38,11 @@ I’m Kyle, a web developer, creative coder who specializes in front-end and bac
 <br>
 
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="./assets/GithubStats.png" />
+  <img align="center" style="margin:0.5rem; float: left;" src="./assets/GithubStats.png" />
 </a>
 
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="./assets/GithubStats2.png" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem float: right;" src="./assets/GithubStats2.png" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
