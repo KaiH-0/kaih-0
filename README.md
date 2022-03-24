@@ -63,4 +63,4 @@ This is just a few of my skills :)
 <br>
 
 Current Occupation = Apex1 Studios
-<img align="center" style="margin:1rem" src="./assets/Apex1LogoRed.png" />
+<img align="center" style="margin:1rem" src="./assets/Apex1LogoRed.png" width="25%" />
